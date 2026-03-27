@@ -59,8 +59,7 @@ Crypto Subscriptions:
 
 ## 📸 Deployment Screenshot
 
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/294339c3-3ac8-4833-9e5b-2981f752c1bb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a92a582-825d-49fd-bccb-c2239a76ff33" />
 
 ---
 
